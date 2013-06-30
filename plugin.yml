@@ -1,0 +1,11 @@
+name: RealisticFood
+version: 1.0
+description: Changes how much a food heals and wether it heals hp or hunger
+author: jacklin213
+
+main: me.jacklin213.realisticfood.RealisticFood
+
+commands:
+
+    
+permissions:

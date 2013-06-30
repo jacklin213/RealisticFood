@@ -1,0 +1,82 @@
+#============= Realistic Food =============#
+#~Jacklin213 ©LinCraft/LinProductions 2013
+
+#Checks for updates on startup
+UpdateCheck: true
+
+#Settings for ever food item
+Food:
+  #Example
+  #Apple:
+  #  heal: hunger/health
+  #  modifier: 1-10
+  Apple:
+    heal: hunger
+    modifier: 4
+  BakedPotato:
+    heal: hunger
+    modifier: 6
+  Bread:
+    heal: hunger
+    modifier: 5
+  #Cake slice
+  Cake:
+    heal: hunger
+    modifier: 2
+  Carrot:
+    heal: hunger
+    modifier: 4
+  CookedChicken:
+    heal: hunger
+    modifier: 6
+  CookedFish:
+    heal: hunger
+    modifier: 5
+  CookedPorkchop:
+    heal: hunger
+    modifier: 8
+  Cookie:
+    heal: hunger
+    modifier: 2
+  GoldenApple:
+    heal: health
+    modifier: 4
+  GoldenCarrot:
+    heal: health
+    modifier: 6
+  Melon:
+    heal: hunger
+    modifier: 2
+  MushroomStew:
+    heal: hunger
+    modifier: 6
+  PoisonousPotato:
+    heal: hunger
+    modifier: 2
+  Potato:
+    heal: hunger
+    modifier: 1
+  PumpkinPie:
+    heal: hunger
+    modifier: 8
+  RawBeef:
+    heal: hunger
+    modifier: 3
+  RawChicken:
+    heal: hunger
+    modifier: 2
+  RawFish:
+    heal: hunger
+    modifier: 2
+  RawPorkchop:
+    heal: hunger
+    modifier: 3
+  RottenFlesh:
+    heal: hunger
+    modifier: 4
+  SpiderEye:
+    heal: hunger
+    modifier: 2
+  Steak:
+    heal: hunger
+    modifier: 8
