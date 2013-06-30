@@ -4,79 +4,79 @@
 #Checks for updates on startup
 UpdateCheck: true
 
-#Settings for ever food item
+#Settings for ever food item (At default value)
 Food:
   #Example
   #Apple:
   #  heal: hunger/health
-  #  modifier: 1-10
+  #  modifier: 1-20 (2 for one bar)
   Apple:
     heal: hunger
-    modifier: 4
+    modifier: 8
   BakedPotato:
     heal: hunger
-    modifier: 6
+    modifier: 12
   Bread:
     heal: hunger
-    modifier: 5
+    modifier: 10
   #Cake slice
   Cake:
     heal: hunger
-    modifier: 2
+    modifier: 4
   Carrot:
     heal: hunger
-    modifier: 4
+    modifier: 8
   CookedChicken:
     heal: hunger
-    modifier: 6
+    modifier: 12
   CookedFish:
     heal: hunger
-    modifier: 5
+    modifier: 10
   CookedPorkchop:
     heal: hunger
-    modifier: 8
+    modifier: 16
   Cookie:
     heal: hunger
-    modifier: 2
+    modifier: 4
   GoldenApple:
     heal: health
-    modifier: 4
+    modifier: 8
   GoldenCarrot:
     heal: health
-    modifier: 6
+    modifier: 12
   Melon:
     heal: hunger
-    modifier: 2
+    modifier: 4
   MushroomStew:
     heal: hunger
-    modifier: 6
+    modifier: 12
   PoisonousPotato:
     heal: hunger
-    modifier: 2
+    modifier: 4
   Potato:
     heal: hunger
-    modifier: 1
+    modifier: 2
   PumpkinPie:
     heal: hunger
-    modifier: 8
+    modifier: 16
   RawBeef:
     heal: hunger
-    modifier: 3
+    modifier: 6
   RawChicken:
     heal: hunger
-    modifier: 2
+    modifier: 4
   RawFish:
     heal: hunger
-    modifier: 2
+    modifier: 4
   RawPorkchop:
     heal: hunger
-    modifier: 3
+    modifier: 6
   RottenFlesh:
     heal: hunger
-    modifier: 4
+    modifier: 8
   SpiderEye:
     heal: hunger
-    modifier: 2
+    modifier: 4
   Steak:
     heal: hunger
-    modifier: 8
+    modifier: 16

@@ -6,6 +6,7 @@ author: jacklin213
 main: me.jacklin213.realisticfood.RealisticFood
 
 commands:
-
-    
-permissions:
+  sethealth:
+    description: test
+  sethunger:
+    description: test 2
